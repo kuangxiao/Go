@@ -1,1 +1,1 @@
-local/remote add something
+remote add something
